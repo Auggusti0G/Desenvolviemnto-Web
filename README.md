@@ -13,7 +13,6 @@ Aprender e praticar conceitos de desenvolvimento web, criando páginas e aplica�
 - JavaScript
 - Git e GitHub
 - PHP
-- 
 
 ## 📂 Projetos
 
